@@ -2,11 +2,6 @@
 
 
 
-(function() {
-      var x = document.getElementById("nav");
-      x.style.display = "none";
-})();
-
 document.addEventListener('DOMContentLoaded', function() {
     // open
     const burger = document.querySelectorAll('.navbar-burger');
